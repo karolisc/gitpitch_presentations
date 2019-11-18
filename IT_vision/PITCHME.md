@@ -3,7 +3,10 @@
 
 ~60 min 
 
+@div[left-40 fragment]
+<br>
 ![gitLab](images/mission-vision-values.png)
+@divend
 
 Note:
 * 5W + How
