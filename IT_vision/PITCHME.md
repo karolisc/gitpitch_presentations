@@ -14,6 +14,8 @@ Note:
 
 ![logo](images/mission-vision-values.png)
 
+![logo](images/mission-vision-values2.png)
+
 ---
 
 ### the @color[blue](Goal)
