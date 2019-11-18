@@ -2,13 +2,11 @@
 
 ~60 min 
 
-
-![gitLab](images/mission-vision-values1.png)
-
+![logo](images/mission-vision-values1.png)
 
 Note:
-* 5W + How
-* context
+* According to managment principles every organization should have Mission, vision and values
+* today will cover  Vision and Values
   
 ---
 ### Who am I?
