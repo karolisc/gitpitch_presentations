@@ -1,5 +1,4 @@
-### @color[orange](GitLab:)  
-#### IT Vision, Values
+### IT @color[orange](Vision), @color[green](Values)
 
 ~60 min 
 
