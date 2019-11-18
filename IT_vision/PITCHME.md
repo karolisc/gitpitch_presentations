@@ -3,9 +3,6 @@
 ~60 min 
 
 ![gitLab](images/gitlab_logo_wm_no_bg.png)
-
-![logo](images/mission_vision_values.png)
-
 ![logo](images/git-model@2x.png)
 
 
