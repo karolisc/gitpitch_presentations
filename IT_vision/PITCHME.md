@@ -1,8 +1,14 @@
 ### @color[orange](GitLab:)  
-#### Task manager + Workflow 
+#### IT Vision, Values
 
 ~60 min 
 
+![gitLab](images/mission-vision-values.png)
+
+Note:
+* 5W + How
+* context
+  
 ---
 ### Who am I?
 - short intro
@@ -275,12 +281,9 @@ Note:
 ---
 ### references
 
-1. https://about.gitlab.com/2016/10/25/gitlab-workflow-an-overview/
-2. https://nvie.com/posts/a-successful-git-branching-model/
-3. https://docs.gitlab.com/ee/workflow/gitlab_flow.html
-4. https://www.brandeps.com/logo/G/GitLab-Vertical-01  
-5. https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIXojohW_bS1rNLEqAeWp5Ms-NRqg5J1lYYLAm-wPYIzKkk8V2gA
-6. https://about.gitlab.com/2016/03/03/start-with-an-issue/
+1. https://www.maine.edu/its/usit/mission-vision-values/
+
+
 
 ---?image=images/github_flow.png&position=right&size=auto 90%
 ---?image=images/gitlab_release_branches.png&size=auto 90%
