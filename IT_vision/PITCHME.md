@@ -11,6 +11,9 @@ Note:
 ---
 ### Who am I?
 - short intro
+
+![logo](images/mission-vision-values.png)
+
 ---
 
 ### the @color[blue](Goal)
