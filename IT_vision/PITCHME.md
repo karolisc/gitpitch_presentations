@@ -1,7 +1,7 @@
 ### @color[orange](GitLab:)  
 #### Task manager + Workflow 
 
-50-80 min 
+~60 min 
 
 ---
 ### Who am I?
