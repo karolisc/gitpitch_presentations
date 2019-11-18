@@ -4,6 +4,8 @@
 
 ![logo](images/mission-vision-values1.png)
 
+![gitLab](images/gitlab_logo_wm_no_bg.png)
+
 Note:
 * According to managment principles every organization should have Mission, vision and values
 * today will cover  Vision and Values
