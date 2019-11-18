@@ -2,7 +2,7 @@
 
 ~60 min 
 
-![gitLab](images/mission-vision-values2)
+![gitLab](images/download.jpg)
 ![logo](images/git-model@2x.png)
 
 
