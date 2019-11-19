@@ -56,7 +56,6 @@ Buzzwords for others .... but will not be for us!
 ---
 ### Values 2
 
-@table[table-header stripes](data/soft_grid1.csv)
 
 ---
 ### Values 3
@@ -64,6 +63,20 @@ Buzzwords for others .... but will not be for us!
 
 ---
 ### Values 4
+
+|                  |                       | 
+|------------------|-----------------------| 
+| openstack        |                       | 
+| kubernetes       |                       | 
+| docker,          | konteineriai          | 
+| prometheus       | monitoring            | 
+| thanos           | monitoring            | 
+| hashicorp Vault  | secrets manager       | 
+| ansible          | configuration manager | 
+| Gitlab CI        | CI/CD                 | 
+| Jenkins          | CI/CD                 | 
+| consul           | Service discovery     | 
+|                  | microservices         | 
 
 
 
