@@ -1,5 +1,5 @@
 ### IT 
-#### @color[orange](Vision), @color[green](Values)
+#### @color[blue](~~Mission~~) @color[orange](Vision), @color[green](Values)
 
 ~60 min 
 
