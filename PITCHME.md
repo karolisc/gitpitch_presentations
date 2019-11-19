@@ -3,7 +3,7 @@
 
 ~60 min 
 
-![gitLab](images/mision_vision_values.png)
+![rings](images/mision_vision_values.png)
 
 
 
@@ -14,13 +14,83 @@ Note:
 ---
 ### Who am I?
 - short intro
-
-![logo](images/mission-vision-values.png)
-
-![logo](images/mission-vision-values2.png)
+- new boss in town?
 
 ---
+### Mission
 
+To eliminate itself (DevOps team).
+
+Note:
+Simple as this: Automate everything, get rid of work.
+
+---
+### Vision
+
+
+- Devops
+- Infrastructure as Code
+- Zero touch config
+- Zero trust
+- Flat ruling
+- Open decisions  
+- Data driven decision making
+- Self healing infrastructure  
+- "Hacked" by default
+
+Note:
+In modern IT we have a lot of Buzzwords (above)
+Buzzwords for others .... but will not be for us!
+
+---
+### Values 1
+
+
+|a|b|
+|--|--|
+|12|45|
+
+---
+### Values 2
+
+
+---
+### Values 3
+
+
+---
+### Values 4
+
+
+
+
+---
+### Toolbox
+
+openstack
+kubernetes
+docker, konteineriai
+prometheus, 
+thanos
+hashicorp Vault
+ansible  panasu
+CI (jenkins, gitlab ci)
+CD
+consul
+microservices.
+
+
+
+
+
+
+
+
+
+
+
+
+---
 ### the @color[blue](Goal)
 @ul
 - Collaboration
