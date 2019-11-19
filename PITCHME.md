@@ -3,7 +3,7 @@
 ~60 min 
 
 ![gitLab](images/download.jpg)
-![logo](images/tukas.jpg)
+
 
 
 Note:
