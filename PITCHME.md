@@ -36,7 +36,10 @@ Simple as this: Automate everything, get rid of work.
 - Open decisions  
 - Data driven decision making
 - Self healing infrastructure  
+- Self service
 - "Hacked" by default
+- Remote work
+- Open source - give back
 
 Note:
 In modern IT we have a lot of Buzzwords (above)
