@@ -56,6 +56,7 @@ Buzzwords for others .... but will not be for us!
 ---
 ### Values 2
 
+@table[table-header stripes](data/soft_grid1.csv)
 
 ---
 ### Values 3
