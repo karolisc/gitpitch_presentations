@@ -1,8 +1,9 @@
-### IT @color[orange](Vision), @color[green](Values)
+### IT 
+#### @color[orange](Vision), @color[green](Values)
 
 ~60 min 
 
-![gitLab](images/download.jpg)
+![gitLab](images/orig.png)
 
 
 
