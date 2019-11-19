@@ -46,9 +46,12 @@ Buzzwords for others .... but will not be for us!
 ### Values 1
 
 
-|a|b|
-|---|---|
-|12|45|
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 
 ---
 ### Values 2
