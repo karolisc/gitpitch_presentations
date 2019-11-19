@@ -1,9 +1,9 @@
 ### IT 
-#### @color[blue](~~Mission~~), @color[orange](Vision), @color[green](Values)
+#### @color[blue](Mission), @color[orange](Vision), @color[green](Values)
 
 ~60 min 
 
-![gitLab](images/orig.png)
+![gitLab](images/mision_vision_values.png)
 
 
 
